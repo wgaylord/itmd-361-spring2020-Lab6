@@ -9,11 +9,19 @@
 	
 	margin: 0;
 	padding: 0;
+	left: 50%;
+	position: relative;
 }
 
 #navbar-container ul {
   list-style-type: none;
 
+}
+
+#navbar-container ul li {
+	
+	float: left;
+	
 }
 
 #navbar-container ul li a {
@@ -23,6 +31,11 @@
 
 
 #sidebar {
+	background-color: red;
+	position: fixed;
+	right:0%;
+	height: 100%;
+	width: 20%;
 	
 }
 
