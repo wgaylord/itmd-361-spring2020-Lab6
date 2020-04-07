@@ -1,13 +1,18 @@
 #main-navbar {
-	
+	position: relative;
+	background-color: blue;
+	width: 100%;
+	overflow: hidden;
 }
 
 #navbar-container {
-
+	
+	
 }
 
 #navbar-container ul {
   list-style-type: none;
+
 }
 
 
