@@ -56,6 +56,14 @@
   list-style-type: none;
 }
 
+#sidebar-container ul li {
+  
+}
+
+#sidebar-container ul li a {
+ 
+}
+
 
 #onpage {
 	text-decoration: underline overline;
