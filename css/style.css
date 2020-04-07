@@ -6,10 +6,19 @@
 
 }
 
+#navbar-container ul {
+  list-style-type: none;
+}
+
+
 #sidebar {
 	
 }
 
 #sidebar-container {
 	
+}
+
+#sidebar-container ul {
+  list-style-type: none;
 }
