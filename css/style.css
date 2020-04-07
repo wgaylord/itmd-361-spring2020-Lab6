@@ -7,12 +7,18 @@
 
 #navbar-container {
 	
-	
+	margin: 0;
+	padding: 0;
 }
 
 #navbar-container ul {
   list-style-type: none;
 
+}
+
+#navbar-container ul li a {
+	text-decoration: none;
+	color: #fff;
 }
 
 
