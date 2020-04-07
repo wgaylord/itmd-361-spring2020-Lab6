@@ -49,11 +49,13 @@
 }
 
 #sidebar-container {
-	
+text-align:center;	
 }
 
 #sidebar-container ul {
   list-style-type: none;
+  display:block;
+  padding: 0;
 }
 
 #sidebar-container ul li {
@@ -61,7 +63,13 @@
 }
 
 #sidebar-container ul li a {
- 
+	padding: 15px 0;
+	display:block;
+	color:#fff
+}
+
+#sidebar-container ul li a:hover {
+	background-color: #000;
 }
 
 
