@@ -7,28 +7,34 @@
 
 #navbar-container {
 	
-	margin: 0;
-	padding: 0;
+	
 	left: 50%;
 	position: relative;
 }
 
 #navbar-container ul {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
 
 }
 
 #navbar-container ul li {
-	
+	display: block;
 	float: left;
 	
 }
 
 #navbar-container ul li a {
 	text-decoration: none;
+	padding: 10px 20px;
+	display: block;
 	color: #fff;
 }
 
+#navbar-container ul li a:hover {
+	background-color: #000;
+}
 
 #sidebar {
 	background-color: red;
